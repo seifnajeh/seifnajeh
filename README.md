@@ -1,4 +1,4 @@
-Hi 👋 My name is Seif Najeh (SCHWERT)
+SCHWERT👋 
 =====================================
 
 Graphic Designer
