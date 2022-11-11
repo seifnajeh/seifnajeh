@@ -1,14 +1,12 @@
 SCHWERT👋 
 =====================================
 
-Graphic Designer
+UX/UI Designer & Front-end Developer
 ----------------
 
-* ✉️  You can contact me at [seifnajeh2002@gmail.com](mailto:seifnajeh2002@gmail.com)
-* 🚀  I'm currently working on [TEKSDOM](http://teksdom.net)
-* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on any interseting projects
-
+* ✉️  You can contact me [here](mailto:seifnajeh2002@gmail.com)
+<!--
 <a href="https://www.twitter.com/seifnajeh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/seifnajeh?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
 /></a>
@@ -37,7 +35,6 @@ src="https://img.shields.io/twitter/follow/seifnajeh?logo=twitter&style=for-the-
 
 <a href="https://github.com/seifnajeh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifnajeh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!--### Support Me
+### Support Me
 
  <a href="https://www.buymeacoffee.com/schwert"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
-
