@@ -1,4 +1,4 @@
-SCHWERT👋 
+Hi 👋, I'm  SCHWERT
 =====================================
 
 UX/UI Designer & Front-end Developer
