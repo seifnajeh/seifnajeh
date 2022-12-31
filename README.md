@@ -5,7 +5,7 @@ UX/UI Designer & Front-end Developer
 ----------------
 
 * 🤝  I'm open to collaborating on any interseting projects
-* ✉️  You can contact me [here](mailto:seifnajeh2002@gmail.com)
+* ✉️  You can contact me [here](mailto:contactseifnajeh@gmail.com)
 <!--
 <a href="https://www.twitter.com/seifnajeh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/seifnajeh?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
