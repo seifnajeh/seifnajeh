@@ -7,7 +7,8 @@ UX/UI Designer & Front-end Developer
 * 🤝  I'm open to collaborating on any interseting projects
 * ✉️  You can contact me [here](mailto:contactseifnajeh@gmail.com)
 
-<img src="https://animecorner.me/wp-content/uploads/2022/07/anya-diary.png" alt="helloo"/>
+<!--<img src="https://animecorner.me/wp-content/uploads/2022/07/anya-diary.png" alt="helloo"/>
+-->
 <!--
 <a href="https://www.twitter.com/seifnajeh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/seifnajeh?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
