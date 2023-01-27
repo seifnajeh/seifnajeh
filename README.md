@@ -1,4 +1,4 @@
-Hi 👋, I'm  SCHWERT
+Hi 👋, I'm  SCHWERT / Seif
 =====================================
 
 UX/UI Designer & Front-end Developer
